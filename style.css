@@ -1,0 +1,26 @@
+body {
+}
+
+input {
+	margin: 5px 0;
+	padding: 5px;
+	min-width: 250px;
+	border: 1px solid black;
+	border-radius: 5px;
+}
+
+button {
+	margin: 5px;
+	margin-left: 0;
+	background: #41a5e1;
+	border: none;
+	border-radius: 5px;
+	color: white;
+	font-size: 16px;
+	font-weight: bold;
+	cursor: pointer;
+}
+
+button:focus {
+	background: #3d6d8a;
+}
